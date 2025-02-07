@@ -1,0 +1,9 @@
+{
+  "domain": "eero",
+  "name": "Eero",
+  "version": "0.1.0",
+  "documentation": "https://github.com/yourusername/home-assistant-eero",
+  "requirements": ["aiohttp"],
+  "dependencies": [],
+  "codeowners": ["@yourusername"]
+}
