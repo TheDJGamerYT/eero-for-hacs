@@ -5,5 +5,5 @@
   "documentation": "https://github.com/yourusername/home-assistant-eero",
   "requirements": ["aiohttp"],
   "dependencies": [],
-  "codeowners": ["@yourusername"]
+  "codeowners": ["@yourdevthedj"]
 }
